@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Ishan Gupta</title>
-    <link>http://ishangupta.github.io/series/</link>
+    <link>http://ishan-gupt.github.io/ishangupta/series/</link>
     <description>Recent content in Series on Ishan Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://ishangupta.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://ishan-gupt.github.io/ishangupta/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
