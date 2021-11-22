@@ -1,4 +1,4 @@
-baseURL = "http://guptaishan.co.in"
+baseURL = "https://clever-cray-c73e69.netlify.app/"
 title = "Ishan Gupta"
 theme = "hugo-coder"
 languageCode = "en"
