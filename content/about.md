@@ -10,6 +10,8 @@ Hello, I'm Ishan
 
 With a passion for Computer Hardware and Software, I have both the skill set and professional background necessary to dive deep into the technological world.
 
+I am currently working as a Delivery Intern at Virtusa.
+
 I have cleared my High School and Intermediate from Central Academy, Lucknow, with an acceptable GPA of 8.6 in High School and 77% in Intermediate.
 Currently, I am pursuing my 3rd-year Btech from Vellore Institute of Technology, Amravati, Andra Pradesh with a CGPA of 8.88.
 
