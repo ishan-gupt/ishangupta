@@ -15,7 +15,7 @@ enableEmoji = true
 author = "Ishan Gupta"
 description = "Ishan Gupta's personal website"
 keywords = "blog,developer,personal"
-info = ["Delivery Intern at Virtusa", "Senior at VITAP"]
+info = ["Java Microservices Developer","Delivery Intern at Virtusa", "Senior at VITAP"]
 avatarurl = "images/photo.png"
 #gravatar = "john.doe@example.com"
 footerContent = ""
@@ -146,12 +146,17 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
+name = "Certifications"
+weight = 2
+url = "certifications/"
+
+[[languages.en.menu.main]]
 name = "Projects"
 weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
-weight = 5
+weight = 4
 url = "contact/"
 
