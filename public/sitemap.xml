@@ -1,24 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://clever-cray-c73e69.netlify.app/about/</loc>
-    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://clever-cray-c73e69.netlify.app/authors/</loc>
-  </url><url>
-    <loc>https://clever-cray-c73e69.netlify.app/categories/</loc>
-  </url><url>
-    <loc>https://clever-cray-c73e69.netlify.app/certification/</loc>
-  </url><url>
-    <loc>https://clever-cray-c73e69.netlify.app/contact/</loc>
-  </url><url>
-    <loc>https://clever-cray-c73e69.netlify.app/</loc>
-  </url><url>
-    <loc>https://clever-cray-c73e69.netlify.app/projects/</loc>
-  </url><url>
-    <loc>https://clever-cray-c73e69.netlify.app/series/</loc>
-  </url><url>
-    <loc>https://clever-cray-c73e69.netlify.app/tags/</loc>
-  </url>
+  
+    <url>
+      <loc>https://guptaishan.live/certificates/mongo/</loc>
+      <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://guptaishan.live/certificates/hugoisforlovers/</loc>
+      <lastmod>2022-09-13T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://guptaishan.live/certificates/hackjava/</loc>
+      <lastmod>2022-09-13T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://guptaishan.live/certificates/hacksql/</loc>
+      <lastmod>2022-09-13T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://guptaishan.live/certificates/accenture/</loc>
+      <lastmod>2022-06-13T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://guptaishan.live/certificates/google-certification/</loc>
+      <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>https://guptaishan.live/about/</loc>
+      <lastmod>2017-06-27T17:39:21-07:00</lastmod>
+    </url>
+  
 </urlset>

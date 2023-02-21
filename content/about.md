@@ -1,24 +1,45 @@
 +++
-title = "About"
-description = "I am Ishan Gupta"
-date = "2021-08-20"
-aliases = ["about-us", "about-ishan", "contact"]
-author = "Ishan Gupta"
+title = "I'm Ishan Gupta"
+date = "2017-06-27T17:39:21-07:00"
+draft = false
 +++
 
-Hey!, I'm Ishan
+## Full-Stack Developer
 
 I belong from Lucknow, Uttar Pradesh but I am currently settled in Bengaluru.
 
-I am currently working as a Delivery Intern at Virtusa.
+### **Education**
 
-I have done my High School and Intermediate from Central Academy, Lucknow, with an acceptable GPA of 8.6 in High School and 77% in Intermediate.
+```mongo
+$ {
+    highschool:{
+        from:["Central Academy","Lucknow"]
+        when:["2017"]
+        how:["CBSE","8.6 CGPA"]
+    },
+    intermediate:{
+        from:["Central Academy","Lucknow"]
+        when:["2019"]
+        how:["CBSE","77 %"]
+    },
+    bachelors:{
+        from:["Vellore Institute of Techology"]
+        when:["2023"]
+        how:["B.Tech","8.73 CGPA"]
+    }
+}
+```
 
-Currently, I am pursuing my 4th-year Btech from VIT-AP University, Amaravati, Andhra Pradesh with a CGPA of 8.84.
+### **Skills**
 
-I can converse in  Hindi and English
+```node
+{
+    languages = ["java", "Javascript", "HTML", "CSS", "GO"],
+    frameworks = ["springboot", "ReactJS", "ExpressJs" ],
+    daatabases = ["MongoDB", "MySQL", "Oracle", "PostgreSQL", "MicrosoftSQL Server"],
+    Operating Systems= ["Windows","Linux (Arch,Debian,Fedora/Redhat)"]
+    tools = ["hugo", "git", "nodejs", "OpenAI"],
+}
+```
 
-I can code well in JAVA. I am prompt in Spring-Boot Framework and can work well with java microservices.
-I know the basics of SQL for database handling and can work well with MySql and MongoDB.
-
-I am comfortable with Windows and mostly all popular Linux Distributions.
+You can visit my codes on [GitHub](https://github.com/ishan-gupt), connect with me on [LinkedIn](https://www.linkedin.com/in/ishangupta-2001/), follow me on [Instagram](https://www.instagram.com/ishan.gupt/) and [Twitter](https://twitter.com/Ishan_Gupt), text me on [Telegram](https://t.me/Ishan_gupta) or [Email](mailto:gupta.ishan@hotmail.com) me and check out my projects below.
