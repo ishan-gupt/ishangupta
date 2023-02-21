@@ -5,6 +5,11 @@ image = "imagecrypter.png"
 alt = "ImageCrypter"
 color = "#7ac143"
 link1 = ""
-link2 = ""
+link2 = "https://github.com/ishan-gupt/image-crypter.git"
 
 +++
+
+### Tech Stack
+
+- Java
+- JavaFx

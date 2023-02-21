@@ -5,6 +5,14 @@ image = "trulycourse.png"
 alt = "TrulyCourse"
 color = "#ffd54f"
 link1 = ""
-link2 = ""
+link2 = "https://github.com/ishan-gupt/TrulyCourse.git"
 
 +++
+
+### Tech Stack
+
+- ReactJS
+- NodeJS
+- MySQL
+- Java
+- SpringBoot
