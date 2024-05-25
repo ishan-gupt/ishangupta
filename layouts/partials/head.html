@@ -9,9 +9,9 @@
     <!-- End Google Tag Manager -->
   {{ end }}
 
-  {{ if .Site.GoogleAnalytics }}
+  <!-- {{ if .Site.GoogleAnalytics }}
     {{ template "_internal/google_analytics_async.html" . }}
-  {{ end }}
+  {{ end }} -->
 
   <title>
     {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
