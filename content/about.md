@@ -34,9 +34,9 @@ $ {
 {
     languages = ["java", "Javascript", "bash", "powershell", "GO"],
     frameworks = ["springboot", "ReactJS", "ExpressJs" ],
-    daatabases = ["MongoDB", "MySQL", "Oracle", "MicrosoftSQL Server"],
-    Operating Systems= ["Windows","Linux (Arch,Debian,Fedora/Redhat)"],
-    CLoud = ["Azure"]
+    databases = ["MongoDB", "MySQL", "Oracle", "MicrosoftSQL Server"],
+    operating Systems= ["Windows","Linux (Arch,Debian,Fedora/Redhat)"],
+    Cloud = ["Azure"]
     tools = ["hugo", "git", "nodejs", "OpenAI"],
 }
 ```
